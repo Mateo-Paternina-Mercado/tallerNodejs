@@ -81,7 +81,7 @@ Al iniciar la app, el usuario accede a un menú con 3 opciones:
 
 📺 Mira cómo funciona el proyecto:
 
-🔗 [Ver video en YouTube](https://youtu.be/72KO_9PRHsM)
+🔗 [Ver video en YouTube](https://youtu.be/_MEsB55R1Tk)
 
 ---
 
